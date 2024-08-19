@@ -1,0 +1,91 @@
+Regular Bundles
+Bundle 1: All-in-One Entertainment
+
+Netflix: Premium Plan
+HBO Max: Standard Plan
+Disney+: Standard Plan
+Price: $34.99/month
+Features:
+Access to new releases, exclusive shows, and classic content.
+Simultaneous streaming on multiple devices.
+Bundle 2: News & Sports Power Pack
+
+CNN: Standard Plan
+ESPN+: Premium Plan
+Fox Sports: Standard Plan
+Price: $27.99/month
+Features:
+Live coverage of sports events.
+24/7 access to breaking news.
+Bundle 3: Family Entertainment
+
+Disney+: Family Plan
+Cartoon Network: Premium Plan
+National Geographic: Premium Plan
+Price: $29.99/month
+Features:
+Family-friendly content with educational programs.
+Ad-free streaming.
+Bundle 4: Ultimate Movie Buff
+
+HBO Max: Premium Plan
+Showtime: Standard Plan
+Starz: Premium Plan
+Price: $32.99/month
+Features:
+Access to a vast library of movies.
+Exclusive film premieres.
+Bundle 5: Kids & Learning
+
+Nickelodeon: Premium Plan
+Disney+: Family Plan
+National Geographic: Premium Plan
+Price: $28.99/month
+Features:
+Content tailored for kids and young learners.
+Educational and entertaining programs.
+Bundle 6: Action & Drama
+
+HBO Max: Premium Plan
+AMC: Premium Plan
+TNT: Standard Plan
+Price: $30.99/month
+Features:
+High-octane action movies and dramatic series.
+Simultaneous streaming on multiple devices.
+Bundle 7: Comedy Central
+
+Comedy Central: Premium Plan
+Netflix: Standard Plan
+HBO Max: Standard Plan
+Price: $29.99/month
+Features:
+Best of stand-up, sitcoms, and comedy movies.
+Ad-free streaming on premium content.
+Bundle 8: Discovery & Documentary
+
+Discovery+: Premium Plan
+National Geographic: Premium Plan
+Disney+: Standard Plan
+Price: $29.99/month
+Features:
+Access to documentaries and educational content.
+Ad-free streaming.
+Bundle 9: Music & Culture
+
+MTV: Premium Plan
+VH1: Premium Plan
+Bravo: Standard Plan
+Price: $27.99/month
+Features:
+Music videos, reality TV, and cultural shows.
+Simultaneous streaming on multiple devices.
+Bundle 10: Classic Cinema
+
+HBO Max: Premium Plan
+AMC: Standard Plan
+Starz: Premium Plan
+Price: $31.99/month
+Features:
+Access to classic movies and cult favorites.
+No ads on premium content.

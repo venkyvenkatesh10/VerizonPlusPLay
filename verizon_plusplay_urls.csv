@@ -1,0 +1,555 @@
+App Name,Category,URL
+HBO,Premium Channels,https://www.hbo.com
+HBO,Premium Channels,https://www.hbo.com/signup/planform
+HBO,Premium Channels,https://www.hbo.com/pricing
+HBO,Premium Channels,https://www.hbo.com/us/plans
+HBO,Premium Channels,https://www.hbo.com/signup/basic
+HBO,Premium Channels,https://www.hbo.com/pricing/basic
+HBO,Premium Channels,https://www.hbo.com/signup/standard
+HBO,Premium Channels,https://www.hbo.com/pricing/standard
+HBO,Premium Channels,https://www.hbo.com/signup/premium
+HBO,Premium Channels,https://www.hbo.com/pricing/premium
+HBO,Premium Channels,https://www.hbo.com/tmobile
+HBO,Premium Channels,https://www.hbo.com/verizon
+HBO,Premium Channels,https://www.hbo.com/atandt
+HBO,Premium Channels,https://www.hbo.com/free-trial
+HBO,Premium Channels,https://www.hbo.com/signup/trial
+HBO,Premium Channels,https://www.hbo.com/redeem
+HBO,Premium Channels,https://www.hbo.com/gift-cards
+HBO,Premium Channels,https://www.hbo.com/promotions
+HBO,Premium Channels,https://www.hbo.com/us
+HBO,Premium Channels,https://www.hbo.com/in
+HBO,Premium Channels,https://www.hbo.com/uk
+HBO,Premium Channels,https://www.hbo.com/ca
+HBO,Premium Channels,https://www.hbo.com/au
+Showtime,Premium Channels,https://www.showtime.com
+Showtime,Premium Channels,https://www.showtime.com/signup/planform
+Showtime,Premium Channels,https://www.showtime.com/pricing
+Showtime,Premium Channels,https://www.showtime.com/us/plans
+Showtime,Premium Channels,https://www.showtime.com/signup/basic
+Showtime,Premium Channels,https://www.showtime.com/pricing/basic
+Showtime,Premium Channels,https://www.showtime.com/signup/standard
+Showtime,Premium Channels,https://www.showtime.com/pricing/standard
+Showtime,Premium Channels,https://www.showtime.com/signup/premium
+Showtime,Premium Channels,https://www.showtime.com/pricing/premium
+Showtime,Premium Channels,https://www.showtime.com/tmobile
+Showtime,Premium Channels,https://www.showtime.com/verizon
+Showtime,Premium Channels,https://www.showtime.com/atandt
+Showtime,Premium Channels,https://www.showtime.com/free-trial
+Showtime,Premium Channels,https://www.showtime.com/signup/trial
+Showtime,Premium Channels,https://www.showtime.com/redeem
+Showtime,Premium Channels,https://www.showtime.com/gift-cards
+Showtime,Premium Channels,https://www.showtime.com/promotions
+Showtime,Premium Channels,https://www.showtime.com/us
+Showtime,Premium Channels,https://www.showtime.com/in
+Showtime,Premium Channels,https://www.showtime.com/uk
+Showtime,Premium Channels,https://www.showtime.com/ca
+Showtime,Premium Channels,https://www.showtime.com/au
+Starz,Premium Channels,https://www.starz.com
+Starz,Premium Channels,https://www.starz.com/signup/planform
+Starz,Premium Channels,https://www.starz.com/pricing
+Starz,Premium Channels,https://www.starz.com/us/plans
+Starz,Premium Channels,https://www.starz.com/signup/basic
+Starz,Premium Channels,https://www.starz.com/pricing/basic
+Starz,Premium Channels,https://www.starz.com/signup/standard
+Starz,Premium Channels,https://www.starz.com/pricing/standard
+Starz,Premium Channels,https://www.starz.com/signup/premium
+Starz,Premium Channels,https://www.starz.com/pricing/premium
+Starz,Premium Channels,https://www.starz.com/tmobile
+Starz,Premium Channels,https://www.starz.com/verizon
+Starz,Premium Channels,https://www.starz.com/atandt
+Starz,Premium Channels,https://www.starz.com/free-trial
+Starz,Premium Channels,https://www.starz.com/signup/trial
+Starz,Premium Channels,https://www.starz.com/redeem
+Starz,Premium Channels,https://www.starz.com/gift-cards
+Starz,Premium Channels,https://www.starz.com/promotions
+Starz,Premium Channels,https://www.starz.com/us
+Starz,Premium Channels,https://www.starz.com/in
+Starz,Premium Channels,https://www.starz.com/uk
+Starz,Premium Channels,https://www.starz.com/ca
+Starz,Premium Channels,https://www.starz.com/au
+Cinemax,Premium Channels,https://www.cinemax.com
+Cinemax,Premium Channels,https://www.cinemax.com/signup/planform
+Cinemax,Premium Channels,https://www.cinemax.com/pricing
+Cinemax,Premium Channels,https://www.cinemax.com/us/plans
+Cinemax,Premium Channels,https://www.cinemax.com/signup/basic
+Cinemax,Premium Channels,https://www.cinemax.com/pricing/basic
+Cinemax,Premium Channels,https://www.cinemax.com/signup/standard
+Cinemax,Premium Channels,https://www.cinemax.com/pricing/standard
+Cinemax,Premium Channels,https://www.cinemax.com/signup/premium
+Cinemax,Premium Channels,https://www.cinemax.com/pricing/premium
+Cinemax,Premium Channels,https://www.cinemax.com/tmobile
+Cinemax,Premium Channels,https://www.cinemax.com/verizon
+Cinemax,Premium Channels,https://www.cinemax.com/atandt
+Cinemax,Premium Channels,https://www.cinemax.com/free-trial
+Cinemax,Premium Channels,https://www.cinemax.com/signup/trial
+Cinemax,Premium Channels,https://www.cinemax.com/redeem
+Cinemax,Premium Channels,https://www.cinemax.com/gift-cards
+Cinemax,Premium Channels,https://www.cinemax.com/promotions
+Cinemax,Premium Channels,https://www.cinemax.com/us
+Cinemax,Premium Channels,https://www.cinemax.com/in
+Cinemax,Premium Channels,https://www.cinemax.com/uk
+Cinemax,Premium Channels,https://www.cinemax.com/ca
+Cinemax,Premium Channels,https://www.cinemax.com/au
+ESPN,Sports Channels,https://www.espn.com
+ESPN,Sports Channels,https://www.espn.com/signup/planform
+ESPN,Sports Channels,https://www.espn.com/pricing
+ESPN,Sports Channels,https://www.espn.com/us/plans
+ESPN,Sports Channels,https://www.espn.com/signup/basic
+ESPN,Sports Channels,https://www.espn.com/pricing/basic
+ESPN,Sports Channels,https://www.espn.com/signup/standard
+ESPN,Sports Channels,https://www.espn.com/pricing/standard
+ESPN,Sports Channels,https://www.espn.com/signup/premium
+ESPN,Sports Channels,https://www.espn.com/pricing/premium
+ESPN,Sports Channels,https://www.espn.com/tmobile
+ESPN,Sports Channels,https://www.espn.com/verizon
+ESPN,Sports Channels,https://www.espn.com/atandt
+ESPN,Sports Channels,https://www.espn.com/free-trial
+ESPN,Sports Channels,https://www.espn.com/signup/trial
+ESPN,Sports Channels,https://www.espn.com/redeem
+ESPN,Sports Channels,https://www.espn.com/gift-cards
+ESPN,Sports Channels,https://www.espn.com/promotions
+ESPN,Sports Channels,https://www.espn.com/us
+ESPN,Sports Channels,https://www.espn.com/in
+ESPN,Sports Channels,https://www.espn.com/uk
+ESPN,Sports Channels,https://www.espn.com/ca
+ESPN,Sports Channels,https://www.espn.com/au
+NBC Sports,Sports Channels,https://www.nbcsports.com
+NBC Sports,Sports Channels,https://www.nbcsports.com/signup/planform
+NBC Sports,Sports Channels,https://www.nbcsports.com/pricing
+NBC Sports,Sports Channels,https://www.nbcsports.com/us/plans
+NBC Sports,Sports Channels,https://www.nbcsports.com/signup/basic
+NBC Sports,Sports Channels,https://www.nbcsports.com/pricing/basic
+NBC Sports,Sports Channels,https://www.nbcsports.com/signup/standard
+NBC Sports,Sports Channels,https://www.nbcsports.com/pricing/standard
+NBC Sports,Sports Channels,https://www.nbcsports.com/signup/premium
+NBC Sports,Sports Channels,https://www.nbcsports.com/pricing/premium
+NBC Sports,Sports Channels,https://www.nbcsports.com/tmobile
+NBC Sports,Sports Channels,https://www.nbcsports.com/verizon
+NBC Sports,Sports Channels,https://www.nbcsports.com/atandt
+NBC Sports,Sports Channels,https://www.nbcsports.com/free-trial
+NBC Sports,Sports Channels,https://www.nbcsports.com/signup/trial
+NBC Sports,Sports Channels,https://www.nbcsports.com/redeem
+NBC Sports,Sports Channels,https://www.nbcsports.com/gift-cards
+NBC Sports,Sports Channels,https://www.nbcsports.com/promotions
+NBC Sports,Sports Channels,https://www.nbcsports.com/us
+NBC Sports,Sports Channels,https://www.nbcsports.com/in
+NBC Sports,Sports Channels,https://www.nbcsports.com/uk
+NBC Sports,Sports Channels,https://www.nbcsports.com/ca
+NBC Sports,Sports Channels,https://www.nbcsports.com/au
+Fox Sports,Sports Channels,https://www.foxsports.com
+Fox Sports,Sports Channels,https://www.foxsports.com/signup/planform
+Fox Sports,Sports Channels,https://www.foxsports.com/pricing
+Fox Sports,Sports Channels,https://www.foxsports.com/us/plans
+Fox Sports,Sports Channels,https://www.foxsports.com/signup/basic
+Fox Sports,Sports Channels,https://www.foxsports.com/pricing/basic
+Fox Sports,Sports Channels,https://www.foxsports.com/signup/standard
+Fox Sports,Sports Channels,https://www.foxsports.com/pricing/standard
+Fox Sports,Sports Channels,https://www.foxsports.com/signup/premium
+Fox Sports,Sports Channels,https://www.foxsports.com/pricing/premium
+Fox Sports,Sports Channels,https://www.foxsports.com/tmobile
+Fox Sports,Sports Channels,https://www.foxsports.com/verizon
+Fox Sports,Sports Channels,https://www.foxsports.com/atandt
+Fox Sports,Sports Channels,https://www.foxsports.com/free-trial
+Fox Sports,Sports Channels,https://www.foxsports.com/signup/trial
+Fox Sports,Sports Channels,https://www.foxsports.com/redeem
+Fox Sports,Sports Channels,https://www.foxsports.com/gift-cards
+Fox Sports,Sports Channels,https://www.foxsports.com/promotions
+Fox Sports,Sports Channels,https://www.foxsports.com/us
+Fox Sports,Sports Channels,https://www.foxsports.com/in
+Fox Sports,Sports Channels,https://www.foxsports.com/uk
+Fox Sports,Sports Channels,https://www.foxsports.com/ca
+Fox Sports,Sports Channels,https://www.foxsports.com/au
+CNN,News Channels,https://www.cnn.com
+CNN,News Channels,https://www.cnn.com/signup/planform
+CNN,News Channels,https://www.cnn.com/pricing
+CNN,News Channels,https://www.cnn.com/us/plans
+CNN,News Channels,https://www.cnn.com/signup/basic
+CNN,News Channels,https://www.cnn.com/pricing/basic
+CNN,News Channels,https://www.cnn.com/signup/standard
+CNN,News Channels,https://www.cnn.com/pricing/standard
+CNN,News Channels,https://www.cnn.com/signup/premium
+CNN,News Channels,https://www.cnn.com/pricing/premium
+CNN,News Channels,https://www.cnn.com/tmobile
+CNN,News Channels,https://www.cnn.com/verizon
+CNN,News Channels,https://www.cnn.com/atandt
+CNN,News Channels,https://www.cnn.com/free-trial
+CNN,News Channels,https://www.cnn.com/signup/trial
+CNN,News Channels,https://www.cnn.com/redeem
+CNN,News Channels,https://www.cnn.com/gift-cards
+CNN,News Channels,https://www.cnn.com/promotions
+CNN,News Channels,https://www.cnn.com/us
+CNN,News Channels,https://www.cnn.com/in
+CNN,News Channels,https://www.cnn.com/uk
+CNN,News Channels,https://www.cnn.com/ca
+CNN,News Channels,https://www.cnn.com/au
+TNT,Entertainment Channels,https://www.tntdrama.com
+TNT,Entertainment Channels,https://www.tntdrama.com/signup/planform
+TNT,Entertainment Channels,https://www.tntdrama.com/pricing
+TNT,Entertainment Channels,https://www.tntdrama.com/us/plans
+TNT,Entertainment Channels,https://www.tntdrama.com/signup/basic
+TNT,Entertainment Channels,https://www.tntdrama.com/pricing/basic
+TNT,Entertainment Channels,https://www.tntdrama.com/signup/standard
+TNT,Entertainment Channels,https://www.tntdrama.com/pricing/standard
+TNT,Entertainment Channels,https://www.tntdrama.com/signup/premium
+TNT,Entertainment Channels,https://www.tntdrama.com/pricing/premium
+TNT,Entertainment Channels,https://www.tntdrama.com/tmobile
+TNT,Entertainment Channels,https://www.tntdrama.com/verizon
+TNT,Entertainment Channels,https://www.tntdrama.com/atandt
+TNT,Entertainment Channels,https://www.tntdrama.com/free-trial
+TNT,Entertainment Channels,https://www.tntdrama.com/signup/trial
+TNT,Entertainment Channels,https://www.tntdrama.com/redeem
+TNT,Entertainment Channels,https://www.tntdrama.com/gift-cards
+TNT,Entertainment Channels,https://www.tntdrama.com/promotions
+TNT,Entertainment Channels,https://www.tntdrama.com/us
+TNT,Entertainment Channels,https://www.tntdrama.com/in
+TNT,Entertainment Channels,https://www.tntdrama.com/uk
+TNT,Entertainment Channels,https://www.tntdrama.com/ca
+TNT,Entertainment Channels,https://www.tntdrama.com/au
+AMC,Entertainment Channels,https://www.amc.com
+AMC,Entertainment Channels,https://www.amc.com/signup/planform
+AMC,Entertainment Channels,https://www.amc.com/pricing
+AMC,Entertainment Channels,https://www.amc.com/us/plans
+AMC,Entertainment Channels,https://www.amc.com/signup/basic
+AMC,Entertainment Channels,https://www.amc.com/pricing/basic
+AMC,Entertainment Channels,https://www.amc.com/signup/standard
+AMC,Entertainment Channels,https://www.amc.com/pricing/standard
+AMC,Entertainment Channels,https://www.amc.com/signup/premium
+AMC,Entertainment Channels,https://www.amc.com/pricing/premium
+AMC,Entertainment Channels,https://www.amc.com/tmobile
+AMC,Entertainment Channels,https://www.amc.com/verizon
+AMC,Entertainment Channels,https://www.amc.com/atandt
+AMC,Entertainment Channels,https://www.amc.com/free-trial
+AMC,Entertainment Channels,https://www.amc.com/signup/trial
+AMC,Entertainment Channels,https://www.amc.com/redeem
+AMC,Entertainment Channels,https://www.amc.com/gift-cards
+AMC,Entertainment Channels,https://www.amc.com/promotions
+AMC,Entertainment Channels,https://www.amc.com/us
+AMC,Entertainment Channels,https://www.amc.com/in
+AMC,Entertainment Channels,https://www.amc.com/uk
+AMC,Entertainment Channels,https://www.amc.com/ca
+AMC,Entertainment Channels,https://www.amc.com/au
+FX,Entertainment Channels,https://www.fxnetworks.com
+FX,Entertainment Channels,https://www.fxnetworks.com/signup/planform
+FX,Entertainment Channels,https://www.fxnetworks.com/pricing
+FX,Entertainment Channels,https://www.fxnetworks.com/us/plans
+FX,Entertainment Channels,https://www.fxnetworks.com/signup/basic
+FX,Entertainment Channels,https://www.fxnetworks.com/pricing/basic
+FX,Entertainment Channels,https://www.fxnetworks.com/signup/standard
+FX,Entertainment Channels,https://www.fxnetworks.com/pricing/standard
+FX,Entertainment Channels,https://www.fxnetworks.com/signup/premium
+FX,Entertainment Channels,https://www.fxnetworks.com/pricing/premium
+FX,Entertainment Channels,https://www.fxnetworks.com/tmobile
+FX,Entertainment Channels,https://www.fxnetworks.com/verizon
+FX,Entertainment Channels,https://www.fxnetworks.com/atandt
+FX,Entertainment Channels,https://www.fxnetworks.com/free-trial
+FX,Entertainment Channels,https://www.fxnetworks.com/signup/trial
+FX,Entertainment Channels,https://www.fxnetworks.com/redeem
+FX,Entertainment Channels,https://www.fxnetworks.com/gift-cards
+FX,Entertainment Channels,https://www.fxnetworks.com/promotions
+FX,Entertainment Channels,https://www.fxnetworks.com/us
+FX,Entertainment Channels,https://www.fxnetworks.com/in
+FX,Entertainment Channels,https://www.fxnetworks.com/uk
+FX,Entertainment Channels,https://www.fxnetworks.com/ca
+FX,Entertainment Channels,https://www.fxnetworks.com/au
+National Geographic,Educational Channels,https://www.nationalgeographic.com
+National Geographic,Educational Channels,https://www.nationalgeographic.com/signup/planform
+National Geographic,Educational Channels,https://www.nationalgeographic.com/pricing
+National Geographic,Educational Channels,https://www.nationalgeographic.com/us/plans
+National Geographic,Educational Channels,https://www.nationalgeographic.com/signup/basic
+National Geographic,Educational Channels,https://www.nationalgeographic.com/pricing/basic
+National Geographic,Educational Channels,https://www.nationalgeographic.com/signup/standard
+National Geographic,Educational Channels,https://www.nationalgeographic.com/pricing/standard
+National Geographic,Educational Channels,https://www.nationalgeographic.com/signup/premium
+National Geographic,Educational Channels,https://www.nationalgeographic.com/pricing/premium
+National Geographic,Educational Channels,https://www.nationalgeographic.com/tmobile
+National Geographic,Educational Channels,https://www.nationalgeographic.com/verizon
+National Geographic,Educational Channels,https://www.nationalgeographic.com/atandt
+National Geographic,Educational Channels,https://www.nationalgeographic.com/free-trial
+National Geographic,Educational Channels,https://www.nationalgeographic.com/signup/trial
+National Geographic,Educational Channels,https://www.nationalgeographic.com/redeem
+National Geographic,Educational Channels,https://www.nationalgeographic.com/gift-cards
+National Geographic,Educational Channels,https://www.nationalgeographic.com/promotions
+National Geographic,Educational Channels,https://www.nationalgeographic.com/us
+National Geographic,Educational Channels,https://www.nationalgeographic.com/in
+National Geographic,Educational Channels,https://www.nationalgeographic.com/uk
+National Geographic,Educational Channels,https://www.nationalgeographic.com/ca
+National Geographic,Educational Channels,https://www.nationalgeographic.com/au
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/signup/planform
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/pricing
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/us/plans
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/signup/basic
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/pricing/basic
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/signup/standard
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/pricing/standard
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/signup/premium
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/pricing/premium
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/tmobile
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/verizon
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/atandt
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/free-trial
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/signup/trial
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/redeem
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/gift-cards
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/promotions
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/us
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/in
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/uk
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/ca
+Cartoon Network,Kids Channels,https://www.cartoonnetwork.com/au
+MTV,Music and Culture Channels,https://www.mtv.com
+MTV,Music and Culture Channels,https://www.mtv.com/signup/planform
+MTV,Music and Culture Channels,https://www.mtv.com/pricing
+MTV,Music and Culture Channels,https://www.mtv.com/us/plans
+MTV,Music and Culture Channels,https://www.mtv.com/signup/basic
+MTV,Music and Culture Channels,https://www.mtv.com/pricing/basic
+MTV,Music and Culture Channels,https://www.mtv.com/signup/standard
+MTV,Music and Culture Channels,https://www.mtv.com/pricing/standard
+MTV,Music and Culture Channels,https://www.mtv.com/signup/premium
+MTV,Music and Culture Channels,https://www.mtv.com/pricing/premium
+MTV,Music and Culture Channels,https://www.mtv.com/tmobile
+MTV,Music and Culture Channels,https://www.mtv.com/verizon
+MTV,Music and Culture Channels,https://www.mtv.com/atandt
+MTV,Music and Culture Channels,https://www.mtv.com/free-trial
+MTV,Music and Culture Channels,https://www.mtv.com/signup/trial
+MTV,Music and Culture Channels,https://www.mtv.com/redeem
+MTV,Music and Culture Channels,https://www.mtv.com/gift-cards
+MTV,Music and Culture Channels,https://www.mtv.com/promotions
+MTV,Music and Culture Channels,https://www.mtv.com/us
+MTV,Music and Culture Channels,https://www.mtv.com/in
+MTV,Music and Culture Channels,https://www.mtv.com/uk
+MTV,Music and Culture Channels,https://www.mtv.com/ca
+MTV,Music and Culture Channels,https://www.mtv.com/au
+Bravo,Lifestyle Channels,https://www.bravotv.com
+Bravo,Lifestyle Channels,https://www.bravotv.com/signup/planform
+Bravo,Lifestyle Channels,https://www.bravotv.com/pricing
+Bravo,Lifestyle Channels,https://www.bravotv.com/us/plans
+Bravo,Lifestyle Channels,https://www.bravotv.com/signup/basic
+Bravo,Lifestyle Channels,https://www.bravotv.com/pricing/basic
+Bravo,Lifestyle Channels,https://www.bravotv.com/signup/standard
+Bravo,Lifestyle Channels,https://www.bravotv.com/pricing/standard
+Bravo,Lifestyle Channels,https://www.bravotv.com/signup/premium
+Bravo,Lifestyle Channels,https://www.bravotv.com/pricing/premium
+Bravo,Lifestyle Channels,https://www.bravotv.com/tmobile
+Bravo,Lifestyle Channels,https://www.bravotv.com/verizon
+Bravo,Lifestyle Channels,https://www.bravotv.com/atandt
+Bravo,Lifestyle Channels,https://www.bravotv.com/free-trial
+Bravo,Lifestyle Channels,https://www.bravotv.com/signup/trial
+Bravo,Lifestyle Channels,https://www.bravotv.com/redeem
+Bravo,Lifestyle Channels,https://www.bravotv.com/gift-cards
+Bravo,Lifestyle Channels,https://www.bravotv.com/promotions
+Bravo,Lifestyle Channels,https://www.bravotv.com/us
+Bravo,Lifestyle Channels,https://www.bravotv.com/in
+Bravo,Lifestyle Channels,https://www.bravotv.com/uk
+Bravo,Lifestyle Channels,https://www.bravotv.com/ca
+Bravo,Lifestyle Channels,https://www.bravotv.com/au
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/signup/planform
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/pricing
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/us/plans
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/signup/basic
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/pricing/basic
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/signup/standard
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/pricing/standard
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/signup/premium
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/pricing/premium
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/tmobile
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/verizon
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/atandt
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/free-trial
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/signup/trial
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/redeem
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/gift-cards
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/promotions
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/us
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/in
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/uk
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/ca
+Comedy Central,Music and Culture Channels,https://www.comedycentral.com/au
+Food Network,Lifestyle Channels,https://www.foodnetwork.com
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/signup/planform
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/pricing
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/us/plans
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/signup/basic
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/pricing/basic
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/signup/standard
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/pricing/standard
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/signup/premium
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/pricing/premium
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/tmobile
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/verizon
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/atandt
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/free-trial
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/signup/trial
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/redeem
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/gift-cards
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/promotions
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/us
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/in
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/uk
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/ca
+Food Network,Lifestyle Channels,https://www.foodnetwork.com/au
+HGTV,Lifestyle Channels,https://www.hgtv.com
+HGTV,Lifestyle Channels,https://www.hgtv.com/signup/planform
+HGTV,Lifestyle Channels,https://www.hgtv.com/pricing
+HGTV,Lifestyle Channels,https://www.hgtv.com/us/plans
+HGTV,Lifestyle Channels,https://www.hgtv.com/signup/basic
+HGTV,Lifestyle Channels,https://www.hgtv.com/pricing/basic
+HGTV,Lifestyle Channels,https://www.hgtv.com/signup/standard
+HGTV,Lifestyle Channels,https://www.hgtv.com/pricing/standard
+HGTV,Lifestyle Channels,https://www.hgtv.com/signup/premium
+HGTV,Lifestyle Channels,https://www.hgtv.com/pricing/premium
+HGTV,Lifestyle Channels,https://www.hgtv.com/tmobile
+HGTV,Lifestyle Channels,https://www.hgtv.com/verizon
+HGTV,Lifestyle Channels,https://www.hgtv.com/atandt
+HGTV,Lifestyle Channels,https://www.hgtv.com/free-trial
+HGTV,Lifestyle Channels,https://www.hgtv.com/signup/trial
+HGTV,Lifestyle Channels,https://www.hgtv.com/redeem
+HGTV,Lifestyle Channels,https://www.hgtv.com/gift-cards
+HGTV,Lifestyle Channels,https://www.hgtv.com/promotions
+HGTV,Lifestyle Channels,https://www.hgtv.com/us
+HGTV,Lifestyle Channels,https://www.hgtv.com/in
+HGTV,Lifestyle Channels,https://www.hgtv.com/uk
+HGTV,Lifestyle Channels,https://www.hgtv.com/ca
+HGTV,Lifestyle Channels,https://www.hgtv.com/au
+Netflix,On-Demand Streaming Services,https://www.netflix.com
+Netflix,On-Demand Streaming Services,https://www.netflix.com/signup/planform
+Netflix,On-Demand Streaming Services,https://www.netflix.com/pricing
+Netflix,On-Demand Streaming Services,https://www.netflix.com/us/plans
+Netflix,On-Demand Streaming Services,https://www.netflix.com/signup/basic
+Netflix,On-Demand Streaming Services,https://www.netflix.com/pricing/basic
+Netflix,On-Demand Streaming Services,https://www.netflix.com/signup/standard
+Netflix,On-Demand Streaming Services,https://www.netflix.com/pricing/standard
+Netflix,On-Demand Streaming Services,https://www.netflix.com/signup/premium
+Netflix,On-Demand Streaming Services,https://www.netflix.com/pricing/premium
+Netflix,On-Demand Streaming Services,https://www.netflix.com/signup/mobile
+Netflix,On-Demand Streaming Services,https://www.netflix.com/pricing/mobile
+Netflix,On-Demand Streaming Services,https://www.netflix.com/tmobile
+Netflix,On-Demand Streaming Services,https://www.netflix.com/verizon
+Netflix,On-Demand Streaming Services,https://www.netflix.com/atandt
+Netflix,On-Demand Streaming Services,https://www.netflix.com/free-trial
+Netflix,On-Demand Streaming Services,https://www.netflix.com/signup/trial
+Netflix,On-Demand Streaming Services,https://www.netflix.com/redeem
+Netflix,On-Demand Streaming Services,https://www.netflix.com/gift-cards
+Netflix,On-Demand Streaming Services,https://www.netflix.com/promotions
+Netflix,On-Demand Streaming Services,https://www.netflix.com/us
+Netflix,On-Demand Streaming Services,https://www.netflix.com/in
+Netflix,On-Demand Streaming Services,https://www.netflix.com/uk
+Netflix,On-Demand Streaming Services,https://www.netflix.com/ca
+Netflix,On-Demand Streaming Services,https://www.netflix.com/au
+Hulu,On-Demand Streaming Services,https://www.hulu.com
+Hulu,On-Demand Streaming Services,https://www.hulu.com/signup/planform
+Hulu,On-Demand Streaming Services,https://www.hulu.com/pricing
+Hulu,On-Demand Streaming Services,https://www.hulu.com/us/plans
+Hulu,On-Demand Streaming Services,https://www.hulu.com/signup/basic
+Hulu,On-Demand Streaming Services,https://www.hulu.com/pricing/basic
+Hulu,On-Demand Streaming Services,https://www.hulu.com/signup/standard
+Hulu,On-Demand Streaming Services,https://www.hulu.com/pricing/standard
+Hulu,On-Demand Streaming Services,https://www.hulu.com/signup/premium
+Hulu,On-Demand Streaming Services,https://www.hulu.com/pricing/premium
+Hulu,On-Demand Streaming Services,https://www.hulu.com/tmobile
+Hulu,On-Demand Streaming Services,https://www.hulu.com/verizon
+Hulu,On-Demand Streaming Services,https://www.hulu.com/atandt
+Hulu,On-Demand Streaming Services,https://www.hulu.com/free-trial
+Hulu,On-Demand Streaming Services,https://www.hulu.com/signup/trial
+Hulu,On-Demand Streaming Services,https://www.hulu.com/redeem
+Hulu,On-Demand Streaming Services,https://www.hulu.com/gift-cards
+Hulu,On-Demand Streaming Services,https://www.hulu.com/promotions
+Hulu,On-Demand Streaming Services,https://www.hulu.com/us
+Hulu,On-Demand Streaming Services,https://www.hulu.com/in
+Hulu,On-Demand Streaming Services,https://www.hulu.com/uk
+Hulu,On-Demand Streaming Services,https://www.hulu.com/ca
+Hulu,On-Demand Streaming Services,https://www.hulu.com/au
+HBO,Premium Channels,https://www.hbomax.com
+HBO,Premium Channels,https://www.hbomax.com/signup/planform
+HBO,Premium Channels,https://www.hbomax.com/pricing
+HBO,Premium Channels,https://www.hbomax.com/us/plans
+HBO,Premium Channels,https://www.hbomax.com/signup/basic
+HBO,Premium Channels,https://www.hbomax.com/pricing/basic
+HBO,Premium Channels,https://www.hbomax.com/signup/standard
+HBO,Premium Channels,https://www.hbomax.com/pricing/standard
+HBO,Premium Channels,https://www.hbomax.com/signup/premium
+HBO,Premium Channels,https://www.hbomax.com/pricing/premium
+HBO,Premium Channels,https://www.hbomax.com/tmobile
+HBO,Premium Channels,https://www.hbomax.com/verizon
+HBO,Premium Channels,https://www.hbomax.com/atandt
+HBO,Premium Channels,https://www.hbomax.com/free-trial
+HBO,Premium Channels,https://www.hbomax.com/signup/trial
+HBO,Premium Channels,https://www.hbomax.com/redeem
+HBO,Premium Channels,https://www.hbomax.com/gift-cards
+HBO,Premium Channels,https://www.hbomax.com/promotions
+HBO,Premium Channels,https://www.hbomax.com/us
+HBO,Premium Channels,https://www.hbomax.com/in
+HBO,Premium Channels,https://www.hbomax.com/uk
+HBO,Premium Channels,https://www.hbomax.com/ca
+HBO,Premium Channels,https://www.hbomax.com/au
+Starz,Premium Channels,https://www.starzplay.com
+Starz,Premium Channels,https://www.starzplay.com/signup/planform
+Starz,Premium Channels,https://www.starzplay.com/pricing
+Starz,Premium Channels,https://www.starzplay.com/us/plans
+Starz,Premium Channels,https://www.starzplay.com/signup/basic
+Starz,Premium Channels,https://www.starzplay.com/pricing/basic
+Starz,Premium Channels,https://www.starzplay.com/signup/standard
+Starz,Premium Channels,https://www.starzplay.com/pricing/standard
+Starz,Premium Channels,https://www.starzplay.com/signup/premium
+Starz,Premium Channels,https://www.starzplay.com/pricing/premium
+Starz,Premium Channels,https://www.starzplay.com/tmobile
+Starz,Premium Channels,https://www.starzplay.com/verizon
+Starz,Premium Channels,https://www.starzplay.com/atandt
+Starz,Premium Channels,https://www.starzplay.com/free-trial
+Starz,Premium Channels,https://www.starzplay.com/signup/trial
+Starz,Premium Channels,https://www.starzplay.com/redeem
+Starz,Premium Channels,https://www.starzplay.com/gift-cards
+Starz,Premium Channels,https://www.starzplay.com/promotions
+Starz,Premium Channels,https://www.starzplay.com/us
+Starz,Premium Channels,https://www.starzplay.com/in
+Starz,Premium Channels,https://www.starzplay.com/uk
+Starz,Premium Channels,https://www.starzplay.com/ca
+Starz,Premium Channels,https://www.starzplay.com/au
+Showtime,Premium Channels,https://www.showtimeanytime.com
+Showtime,Premium Channels,https://www.showtimeanytime.com/signup/planform
+Showtime,Premium Channels,https://www.showtimeanytime.com/pricing
+Showtime,Premium Channels,https://www.showtimeanytime.com/us/plans
+Showtime,Premium Channels,https://www.showtimeanytime.com/signup/basic
+Showtime,Premium Channels,https://www.showtimeanytime.com/pricing/basic
+Showtime,Premium Channels,https://www.showtimeanytime.com/signup/standard
+Showtime,Premium Channels,https://www.showtimeanytime.com/pricing/standard
+Showtime,Premium Channels,https://www.showtimeanytime.com/signup/premium
+Showtime,Premium Channels,https://www.showtimeanytime.com/pricing/premium
+Showtime,Premium Channels,https://www.showtimeanytime.com/tmobile
+Showtime,Premium Channels,https://www.showtimeanytime.com/verizon
+Showtime,Premium Channels,https://www.showtimeanytime.com/atandt
+Showtime,Premium Channels,https://www.showtimeanytime.com/free-trial
+Showtime,Premium Channels,https://www.showtimeanytime.com/signup/trial
+Showtime,Premium Channels,https://www.showtimeanytime.com/redeem
+Showtime,Premium Channels,https://www.showtimeanytime.com/gift-cards
+Showtime,Premium Channels,https://www.showtimeanytime.com/promotions
+Showtime,Premium Channels,https://www.showtimeanytime.com/us
+Showtime,Premium Channels,https://www.showtimeanytime.com/in
+Showtime,Premium Channels,https://www.showtimeanytime.com/uk
+Showtime,Premium Channels,https://www.showtimeanytime.com/ca
+Showtime,Premium Channels,https://www.showtimeanytime.com/au
+ESPN,Sports Channels,https://www.espnplus.com
+ESPN,Sports Channels,https://www.espnplus.com/signup/planform
+ESPN,Sports Channels,https://www.espnplus.com/pricing
+ESPN,Sports Channels,https://www.espnplus.com/us/plans
+ESPN,Sports Channels,https://www.espnplus.com/signup/basic
+ESPN,Sports Channels,https://www.espnplus.com/pricing/basic
+ESPN,Sports Channels,https://www.espnplus.com/signup/standard
+ESPN,Sports Channels,https://www.espnplus.com/pricing/standard
+ESPN,Sports Channels,https://www.espnplus.com/signup/premium
+ESPN,Sports Channels,https://www.espnplus.com/pricing/premium
+ESPN,Sports Channels,https://www.espnplus.com/tmobile
+ESPN,Sports Channels,https://www.espnplus.com/verizon
+ESPN,Sports Channels,https://www.espnplus.com/atandt
+ESPN,Sports Channels,https://www.espnplus.com/free-trial
+ESPN,Sports Channels,https://www.espnplus.com/signup/trial
+ESPN,Sports Channels,https://www.espnplus.com/redeem
+ESPN,Sports Channels,https://www.espnplus.com/gift-cards
+ESPN,Sports Channels,https://www.espnplus.com/promotions
+ESPN,Sports Channels,https://www.espnplus.com/us
+ESPN,Sports Channels,https://www.espnplus.com/in
+ESPN,Sports Channels,https://www.espnplus.com/uk
+ESPN,Sports Channels,https://www.espnplus.com/ca
+ESPN,Sports Channels,https://www.espnplus.com/au
